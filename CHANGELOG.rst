@@ -2,7 +2,7 @@
 Changelog:
 ==========
 
-v1.3 (2022-04-30):
+v1.3 (2023-04-30):
 
 - Added support for Django 3.2 to 4.2.
 - Added support for Python 3.8 to 3.11.
